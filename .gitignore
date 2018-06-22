@@ -7,8 +7,8 @@
 out
  
 # Eclipse Project files
-.classpath
-.project
+#.classpath
+#.project
 .settings/
 
 # Other files
